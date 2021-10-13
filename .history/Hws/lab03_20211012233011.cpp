@@ -5,7 +5,7 @@
 using namespace std;
 
 class ConfigFileError: public exception {
-  public: const char * what() consts
+  public: const char * what() const
   throw () {
     return "Configuration file is badly formed";
   }
