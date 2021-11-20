@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "SSH FS - odin",
+		"uri": "ssh://odin/home/stu/etagaca"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "*.js": "javascriptreact",
+      "chrono": "cpp"
+    }
+  }
+}
